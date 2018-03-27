@@ -1,0 +1,1 @@
+{"name": "Tekken Bot", "channel_id": "428047053659176981", "token": "Vqzm8tLTPbgxX5s0JwzKqY3XWZ-e2C0XwMe4M42LJzCj5TvRumJad8hm76LyuR_p47rY", "avatar": null, "guild_id": "332120234339205120", "id": "428055980106842112"}
